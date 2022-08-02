@@ -23,3 +23,8 @@ else{
 for (let i = 1; i <= 39; i++) {
     console.log(i +" "+ "Aske amar mon valo nei.");
 }
+
+//checklist 29
+for(var i = 58; i <= 98; i++){
+    console.log(i);
+}
