@@ -1,3 +1,4 @@
+//Checklist 24
 var moneyHave = 120000;
 
 if(moneyHave >= 80000){
@@ -14,4 +15,11 @@ else if(moneyHave >= 20000){
 }
 else{
     console.log('kichu kina lagbe na tor. Mobile ache na? Oita diya kaaj chala ');
+}
+
+
+
+//checklist 25
+for (let i = 1; i <= 39; i++) {
+    console.log(i +" "+ "Aske amar mon valo nei.");
 }
